@@ -1,9 +1,10 @@
-# First learning Journal
-In the second day of class, I've learned about the trim statement, used to remove unwanted
-spaces from the outerside of strings. Also we have extensively talked about git and github,
-and the importance as well as the convenience of ACP when you reach a milestone or standard
-in your code.
+# Third learning Journal
+For the third class, we went over for loops and if statements for the most part.
+Also, with the && and || operators, which differ in uses as the && is for when
+you want the for loop to only run when both conditions are true, while the ||
+operators will run as long as one as the conditions are true.
 
-The assignment checks that you understand how to use git and github, as well as reinforcing
-and practicing writing good code format, in that you should use semi-colons and the double space.
-So far I am able to follow along the class well enough, no complaints. 
+For the assignment, I had got stuck on getting the loop to stop when the correct
+input was given. I found out after asking for help that I had misused the ||
+operator, and should have used the && operator for my loop. After this was fixed,
+the rest of the assignment went smoothly.
