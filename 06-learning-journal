@@ -1,0 +1,6 @@
+# Sixth Learning Journal
+
+Today we went over objects, which differ from arrays in that you want to use arrays for
+similar objects grouped together like names of fruits. While with objects, you can use
+them to keep them for the same type of objects, but differ in content. Lists of information with different
+relationships.
