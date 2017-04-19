@@ -1,7 +1,9 @@
-#12th Learning Journal
+#13th Class Learning Journal
 
-We went over yesterdays lab assignment, focused on going over the tricky part
+On the 12th class, we went over yesterdays lab assignment, focused on going over the tricky part
 of getting no duplicate images from the previous page. By splicing the images
 that were displayed, it forces the random image picker to select none of those.
 Also went over chart.js, a library to create charts, which will be used in the
-lab assignment. 
+lab assignment.
+
+For the 13th class, we went over local Element, being able to save data, like an object or an array, to our local machine's hard drive. We of course had to implement this in todays lab, which went fairly well.
