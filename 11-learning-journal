@@ -1,6 +1,7 @@
-#Eleventh Learning Journal
+#12th Learning Journal
 
-Today we covered CSS in class, going over the float property in addition to the
-display: inline block. Going over the choco-pizza lab, I got a better understanding
-of the divs, the boxes they represent, and making sure the boxes width are set so they
-can fit in their parent boxes.
+We went over yesterdays lab assignment, focused on going over the tricky part
+of getting no duplicate images from the previous page. By splicing the images
+that were displayed, it forces the random image picker to select none of those.
+Also went over chart.js, a library to create charts, which will be used in the
+lab assignment. 
